@@ -1,5 +1,7 @@
 # Ecommerce Website
 
+[![CI](https://github.com/patidarpayal485-pixel/Ecommerce-Wesite/actions/workflows/ci.yml/badge.svg)](https://github.com/patidarpayal485-pixel/Ecommerce-Wesite/actions)
+
 Simple frontend e-commerce demo built with Vite.
 
 ## Development
